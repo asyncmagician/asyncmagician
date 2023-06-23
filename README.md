@@ -3,13 +3,10 @@
 🌐 I started with vanilla HTML, CSS, and JavaScript and my first server-side programming language was PHP. I prefer understanding how things work before using a framework, so I built a mini-framework from scratch, inspired by Symfony, which included autoload, an ORM, and MVC architecture.
 
 
-🎓 I obtained my Associate Degree in Computer Science in July 2022, and since September 2022, I've been working with CakePHP at [@passbolt](https://www.github.com/passbolt), where I'm pursuing a Bachelor degree in Computer Science through an apprenticeship.
+🎓 I obtained my Associate Degree in Computer Science in July 2022, and since September 2022, I've been on a work-study programm at [@passbolt](https://www.github.com/passbolt), where I'm pursuing a Bachelor degree in Computer Science.
 
 
-🔧 Recently, I've been diving into JavaScript-based technologies and frameworks, starting with Node.js, then Express.js, and now Nest.js ❤️ 
-
-
-💻 As for the front-end, I used to work with Twig and Bootstrap, but I've recently become interested in front-end frameworks. I've tried React, but I've found my groove with Vue.js and Nuxt 3 💚 I'm also keeping an eye on Astro.js as I've heard great things about it.
+🔧 Recently, I've been diving into python technologies ❤️ 
 
 
 🔒 I'm passionate about writing clean, secure, and elegant code, striving to create top-notch applications for users.
