@@ -1,20 +1,43 @@
-🚀 Hey there! I'm a 27-year-old full-stack developer who dove into the world of web development in late 2021. 
+# Hey, I'm Antony! 👋
 
-🌐 I started with vanilla HTML, CSS, and JavaScript and my first server-side programming language was PHP. I prefer understanding how things work before using a framework, so I built a mini-framework from scratch, inspired by Symfony, which included autoload, an ORM, and MVC architecture.
+  ## About Me
 
+  I'm a 28-year-old DevOps Engineer at [@passbolt](https://www.github.com/passbolt) who discovered my passion for web development in late 2020. What started as curiosity about HTML, CSS, and JavaScript quickly evolved into a deep dive into full-stack engineering.
 
-🎓 I am a Software and Support Engineer at [@passbolt](https://www.github.com/passbolt) since 2022.
+  ### What I Do 🛠️
 
+  I wear many hats as a true Swiss Army knife in the software lifecycle:
 
-🔒 I'm passionate about writing clean, secure, and elegant code, striving to create top-notch applications for users.
+  - **Backend & Frontend Development**: Writing clean, secure code across the
+  stack
+  - **DevOps & Automation**: If I do something twice, it gets automated.
+  Debian/RPM packaging, Ansible playbooks, Docker orchestration - I love making
+  systems work seamlessly
+  - **Infrastructure**: Building robust systems that scale predictably and remain
+  secure by design
+  - **Problem Solving**: From debugging container failures to untangling cryptic
+  SELinux errors - these aren't obstacles, they're puzzles I enjoy solving
 
+  ### Tech Stack 💻
 
-🌟 I believe in giving back to the community, so I make all of my projects open-source. Some are still in development and will be open-sourced once they reach a stable version.
+  **Languages**: PHP, JavaScript, Python, Bash
+  **DevOps**: Docker, Ansible, Kubernetes, CI/CD
+  **Systems**: Linux (various distributions), High-availability architectures
+  **Interests**: Cryptography, Algorithms, Security-first design
 
+  ### Currently Working On 🚀
 
-🛠️ I am really familiar with Linux, Docker, Ansible. 
+  - [FinanceMate](https://github.com/asyncmagician/FinanceMate) - Self-hosted
+  personal finance manager with GDPR compliance
+  - Contributing to [@passbolt](https://www.github.com/passbolt) - Open source
+  password manager
+  - [mucci.dev](https://mucci.dev) - A terminal-based portfolio
 
+  ### Let's Connect! 📫
 
-📫 How to reach me: [Twitter](https://www.twitter.com/asyncmaster) or via [PGP message](https://gist.github.com/asyncmagician/cd83274e6c66b120b6a8e75799c6cc5e) at [giammarino.antony+gpg@gmail.com](mailto:giammarino.antony+gpg@gmail.com).
+  - **Twitter**: [@asyncmaster](https://www.twitter.com/asyncmaster)
+  - **Email**: [PGP encrypted messages welcome](https://gist.github.com/asyncmagician/cd83274e6c66b120b6a8e75799c6cc5e) at giammarino.antony@gmail.com
+  - **LinkedIn**: [Antony Bartolomucci](https://linkedin.com/in/bartolomucci)
 
-⚡ Fun fact: Did you know that the first computer bug was an actual insect? In 1947, a moth was found trapped in a relay of the Harvard Mark II computer, causing an error. This event led to the term "debugging" to describe the process of finding and fixing issues in software code.
+  *"Repetition is my red flag 🚩 - if I do something more than twice, I script
+  it."*
